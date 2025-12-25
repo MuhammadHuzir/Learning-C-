@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(calculator calculator.cpp)
 add_executable(file_based_system file_based_system.cpp)
+add_executable(student_info_system main.cpp student_info_system.cpp)
